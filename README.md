@@ -1,4 +1,4 @@
-# Desktop-Application-Hotel-Management-with-PyQt5
+# Desktop Application Hotel Management with PyQt5
 Aplikasi Desktop tentang manajemen Hotel bagian pemesanan kamar Hotel merupakan tugas akhir dari mata kuliah Sistem Basis Data. Didalam aplikasi ini terdapat fitur dalam pemesanan Hotel seperti input data tamu, delete data tamu, update data tamu dll. Aplikasi ini saya buat menggunakan PyQt5 dan database yang saya gunakan adalah MySql.
 
 ## Cara Menjalankan
